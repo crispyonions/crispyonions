@@ -4,7 +4,9 @@
   
 
 ### <div align="center">Hello world!
-My name's Skye :) I love word puzzles and cozy games. I like to make computer stuff look good, work good, etc. Thanks for stopping by my page!
+  My name's Skye :) 
+  I love word puzzles and cozy games. 
+  I like to make computer stuff look good, work good, etc. Thanks for stopping by my page!
 
 <br/>  
 
