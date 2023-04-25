@@ -3,17 +3,13 @@
 </div>  
   
 
-### <div align="center">Hello world!
-  My name's Skye :) 
-  I love word puzzles and cozy games. 
-  I like to make computer stuff look good, work good, etc. Thanks for stopping by my page!
+<div align="center">My name's Skye :) <br> I like to make computer stuff look good, work good, etc.</li><br> Thanks for stopping by my page!</br>
 
-<br/>  
-
-
-## My Skill Set  
+<br>
+ <div align="center"> 
+Skills 
 <table><tr><td valign="top" width="33%">
-
+  </div></br>
 
 
 ### Frontend  
