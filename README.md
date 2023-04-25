@@ -4,14 +4,7 @@
   
 
 ### <div align="center">Hello world!
-My name's Skye and I'm a Nashville native that's worked pretty much every type of job under the sun here. I've been a cook, a barista, a professional artist's assistant, a silversmith, a house cleaning specialist, and a small business owner just to name a few of my many past lives. If you live here I've probably made you a smoothie, resized your rings, or delivered my subscription cold brew coffee service to your door! I love the community in Nashville and have been honored to work with some of my favorite people and businesses here.
-
-I've tried a lot of things because that's how you find out what you like, and essentially who you are in this life. I strongly believe my skillset has been forged from trying everything and learning exactly what I am great at.
-
-Now, as I'm completing Nashville Software School, I'm looking to put my creativity, problem-solving skills, and my constant "how can we make this better" mindset to work in the tech field. Whether it's front-end development or user interface design, I believe in making things function beautifully.
-
-Aside from my fully stacked work background and burgeoning full stack career, I am a visual artist, a decent home cook, and a general adventurer. I also petsit and always have a rotating cast of cute animals to hang out with. I'm a cozy homebody that's happy at a computer, but even more thrilled to be out exploring the world. Above all, I'm just happy to be here!</div>  
-  
+My name's Skye :) I love word puzzles and cozy games. I like to make computer stuff look good, work good, etc. Thanks for stopping by my page!
 
 <br/>  
 
