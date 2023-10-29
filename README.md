@@ -3,8 +3,6 @@
 </div>  
   
 
-<div align="center">My name's Skye :) <br> I like to make computer stuff look good, work good, etc.</li><br> Thanks for stopping by my page!</br>
-
 <br>
  <div align="center"> 
 Skills 
